@@ -57,7 +57,7 @@ include 'Employee.php'; // Then include "Child class"
 // $person = new Person;
 // $person->setName('Mustafa');
 // $person->setAge(28);
-// // It will return "PHP Fatal error: Cannot access protected property Person::$name"
+// // It will return name
 // var_dump($person->getName());
 
 /* End uncomment me*/
